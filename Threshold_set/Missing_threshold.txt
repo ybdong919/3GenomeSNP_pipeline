@@ -1,0 +1,2 @@
+The default max number of missing data of each SNP site from all tested samples is 0. You want to change it into:
+0

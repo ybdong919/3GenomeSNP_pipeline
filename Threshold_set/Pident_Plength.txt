@@ -1,0 +1,4 @@
+The default minimum of pident is 75%. You want to change it into:
+75
+The default minimum of plength is 99%. You want to change it into:
+99
